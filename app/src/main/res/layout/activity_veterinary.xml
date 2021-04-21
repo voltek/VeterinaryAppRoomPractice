@@ -123,6 +123,7 @@
         android:layout_marginEnd="8dp"
         android:text="@string/search_pet_by_name"
         app:layout_constraintEnd_toEndOf="parent"
+        android:visibility="gone"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/btnVAAdd" />
 
