@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">RoomPracticeApp</string>
+    <string name="add_btn_text">Añadir</string>
+    <string name="name_hint">Nombre</string>
+    <string name="race_hint">Raza</string>
+    <string name="age_hint">Edad</string>
+    <string name="fill_pets_data_title">Ingresa los datos de tu mascota</string>
+    <string name="numbers_digits">0123456789</string>
+    <string name="update">Actualizar</string>
+    <string name="delete">Borrar</string>
+    <string name="search_pet_by_name">Buscar mascota por nombre</string>
+
+    <plurals name="dog_age_plural">
+        <item quantity="one">%d año</item>
+        <item quantity="other">%d años</item>
+    </plurals>
+
+</resources>
